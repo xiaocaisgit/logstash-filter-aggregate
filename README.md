@@ -1,4 +1,4 @@
-t.conf
+1.test.conf
 
 
       这是一个logstash-filter-aggregate 的配置实例。用于将日志中的request 和response合并为一个event。测试阶段仅output到了文件

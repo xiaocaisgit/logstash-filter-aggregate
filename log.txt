@@ -1,0 +1,4 @@
+2018-07-02 09:30:30,160 [INFO ] - seqid=f4c3d264-4baa-442d-a6a0-3013cb9052ff,request=/ifs/api/Call/callControl?x=123&y=234&n=123 @(com.xxxx.xxxxxxxx.controller.CallManage,75)
+2018-07-02 09:30:30,162 [INFO ] - seqid=f4c3d264-4baa-442d-a6a0-3013cb9052ff,response={"secret_call_release_response":{"result":true}} @(com.xxxxxx.xxxxxx.controller.CallManage,169)
+2018-07-02 09:30:30,170 [INFO ] - seqid=f0e48bf4-0215-4244-b127-00925d319f96,request=/ifs/api/manage/dataManage?msgtype=binding_Relation&xxx=xxx&xxx=xxx@(com.xxxx.xxx.controller.DataManage,87)
+2018-07-02 09:30:30,176 [INFO ] - seqid=f0e48bf4-0215-4244-b127-00925d319f96,response={"binding_Relation_response":{"true"} @(com.xxxx.xxxx.controller.DataManage,178)
